@@ -213,15 +213,6 @@ predictions = client.predict(
 - No hyperparameter tuning implemented
 - 10% confidence intervals are approximations
 
-## Future Enhancements
-
-- [ ] Multi-store model training
-- [ ] Advanced algorithms (XGBoost, Prophet, LSTM)
-- [ ] Hyperparameter tuning with MLflow
-- [ ] A/B testing framework
-- [ ] Drift detection and retraining
-- [ ] Integration with Delta Live Tables
-
 ## Troubleshooting
 
 **Model serving endpoint not ready:**
